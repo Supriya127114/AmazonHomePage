@@ -1,0 +1,166 @@
+.item > img {
+    width:100%;
+    height:350px !important;
+}
+.navbar-brand{
+    color:white;
+}
+.carousel-caption{
+    
+    font-size: medium;
+}
+.ReferenceHeading {
+    font-size:20px;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:initial;
+}
+#Search {
+ width:100%;
+ height:450px;
+ /*border:2px solid red;*/
+}
+.tileContainer{
+    width: 20%;
+    height:180px;
+    /*box-shadow: 10px 20px 10px gray;*/
+    float:left;
+    margin-left:2%;
+    margin-top:2%;
+    animation:dance 20s infinite;
+}
+.tileComponent1{
+    width:100%;
+    height:180px;
+    float:left;
+}
+.tileComponent1>img{
+    width:100%;
+    height:180px
+}
+.tileComponent2{
+    width:100%;
+    height:180px;
+    float:left;
+}
+.tileComponent2>img{
+    width:100%;
+    height:180px
+}
+.tileComponent3{
+    width:100%;
+    height:180px;
+    float:left;
+}
+.tileComponent3>img{
+    width:100%;
+    height:180px
+}
+.tileComponent4{
+    width:100%;
+    height:180px;
+    float:left;
+}
+.tileComponent4>img{
+    width:100%;
+    height:180px
+}
+.tileComponent5{
+    width:100%;
+    height:180px;
+    float:left;
+}
+.tileComponent5>img{
+    width:100%;
+    height:180px
+}
+.tileComponent6{
+    width:100%;
+    height:180px;
+    float:left;
+}
+.tileComponent6>img{
+    width:100%;
+    height:180px
+}
+.tileComponent7{
+    width:100%;
+    height:180px;
+    float:left;
+}
+.tileComponent7>img{
+    width:100%;
+    height:180px
+}
+.tileComponent8{
+    width:100%;
+    height:180px;
+    float:left;
+}
+.tileComponent8>img{
+    width:100%;
+    height:180px
+}
+
+#GadgetSearch {
+    width:100%;
+    height:250px;
+    /*border:2px solid red;*/
+   }
+   .tileComponent9{
+    width:100%;
+    height:180px;
+    float:left;
+}
+.tileComponent9>img{
+    width:100%;
+    height:180px
+}
+.tileComponent10{
+    width:100%;
+    height:180px;
+    float:left;
+}
+.tileComponent10>img{
+    width:100%;
+    height:180px
+}
+.tileComponent11{
+    width:100%;
+    height:180px;
+    float:left;
+}
+.tileComponent11>img{
+    width:100%;
+    height:180px
+}
+.tileComponent12{
+    width:100%;
+    height:180px;
+    float:left;
+}
+.tileComponent12>img{
+    width:100%;
+    height:180px
+}
+footer{
+    margin-top:5%;
+    height:130px;
+    width:100%;
+    background-color:black
+}
+#footerText{
+    text-align: center;
+    color:white;
+}
+.footDiv{
+    height:70px;
+    width:33%;
+    float:left;
+    border-right:2px solid black;
+    text-align: center;
+    color:white;
+}
+.noBorder{
+    border:none 
+}
